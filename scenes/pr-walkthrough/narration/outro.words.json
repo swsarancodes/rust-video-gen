@@ -1,0 +1,164 @@
+{
+ "wordTimings": [
+  {
+   "word": "That's",
+   "start": 0,
+   "end": 0.24
+  },
+  {
+   "word": "all",
+   "start": 0.24,
+   "end": 0.34
+  },
+  {
+   "word": "five.",
+   "start": 0.34,
+   "end": 0.72
+  },
+  {
+   "word": "Start",
+   "start": 1.12,
+   "end": 1.84
+  },
+  {
+   "word": "with",
+   "start": 1.84,
+   "end": 2.08
+  },
+  {
+   "word": "the",
+   "start": 2.08,
+   "end": 2.2
+  },
+  {
+   "word": "first",
+   "start": 2.2,
+   "end": 2.44
+  },
+  {
+   "word": "two,",
+   "start": 2.44,
+   "end": 2.74
+  },
+  {
+   "word": "Honest",
+   "start": 2.92,
+   "end": 3.84
+  },
+  {
+   "word": "Startup",
+   "start": 3.84,
+   "end": 4.26
+  },
+  {
+   "word": "Errors",
+   "start": 4.26,
+   "end": 4.66
+  },
+  {
+   "word": "and",
+   "start": 4.66,
+   "end": 5.3
+  },
+  {
+   "word": "No",
+   "start": 5.3,
+   "end": 5.56
+  },
+  {
+   "word": "More",
+   "start": 5.56,
+   "end": 5.76
+  },
+  {
+   "word": "Killed",
+   "start": 5.76,
+   "end": 6.12
+  },
+  {
+   "word": "Servers.",
+   "start": 6.12,
+   "end": 6.64
+  },
+  {
+   "word": "Then",
+   "start": 7.300000000000001,
+   "end": 7.66
+  },
+  {
+   "word": "bind",
+   "start": 7.66,
+   "end": 8.06
+  },
+  {
+   "word": "retries,",
+   "start": 8.06,
+   "end": 8.68
+  },
+  {
+   "word": "clean",
+   "start": 8.86,
+   "end": 9.48
+  },
+  {
+   "word": "stops,",
+   "start": 9.48,
+   "end": 9.88
+  },
+  {
+   "word": "and",
+   "start": 10.18,
+   "end": 10.48
+  },
+  {
+   "word": "the",
+   "start": 10.48,
+   "end": 10.56
+  },
+  {
+   "word": "TUI",
+   "start": 10.56,
+   "end": 11.14
+  },
+  {
+   "word": "reconnect.",
+   "start": 11.14,
+   "end": 11.56
+  },
+  {
+   "word": "Each",
+   "start": 12.46,
+   "end": 12.82
+  },
+  {
+   "word": "one",
+   "start": 12.82,
+   "end": 13.02
+  },
+  {
+   "word": "is",
+   "start": 13.02,
+   "end": 13.22
+  },
+  {
+   "word": "small,",
+   "start": 13.22,
+   "end": 13.56
+  },
+  {
+   "word": "tested,",
+   "start": 13.76,
+   "end": 14.3
+  },
+  {
+   "word": "and",
+   "start": 14.56,
+   "end": 14.9
+  },
+  {
+   "word": "independent.",
+   "start": 14.9,
+   "end": 15.26
+  }
+ ]
+}

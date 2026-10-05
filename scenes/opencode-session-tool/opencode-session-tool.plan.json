@@ -1,0 +1,1028 @@
+{
+  "version": 2,
+  "id": "opencode-v2-session-tool",
+  "durationNanos": 20500000000,
+  "actors": [
+    {
+      "id": "recording",
+      "recipe": "video",
+      "data": {
+        "center": [
+          960.0,
+          540.0
+        ],
+        "fps": 60,
+        "mediaId": "live-hot-reload",
+        "size": [
+          1920,
+          760
+        ],
+        "title": "vim  /  opencode v2",
+        "width": 1400.0
+      }
+    },
+    {
+      "id": "heading-command",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "COMMAND ADDED LIVE"
+      }
+    },
+    {
+      "id": "detail-command",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "opencode.jsonc saved  /  slash command appears  /  no restart"
+      }
+    },
+    {
+      "id": "heading-agent",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "AGENT REGISTRY RELOADED"
+      }
+    },
+    {
+      "id": "detail-agent",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "release-sentinel enabled  /  mention menu refreshes in place"
+      }
+    },
+    {
+      "id": "heading-skill",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "PROJECT SKILL INVALIDATED"
+      }
+    },
+    {
+      "id": "detail-skill",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "SKILL.md saved  /  release-protocol becomes slash-visible"
+      }
+    },
+    {
+      "id": "heading-reference",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "REFERENCE MATERIALIZED"
+      }
+    },
+    {
+      "id": "detail-reference",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "runbook configured  /  @runbook appears in the live picker"
+      }
+    },
+    {
+      "id": "heading-model",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "MODEL CATALOG REFRESHED"
+      }
+    },
+    {
+      "id": "detail-model",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "Local Instant enabled  /  model selector updates without reconnecting"
+      }
+    },
+    {
+      "id": "heading-permission",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "PERMISSIONS APPLY NEXT STEP"
+      }
+    },
+    {
+      "id": "detail-permission",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "read denied for build  /  the following provider request omits it"
+      }
+    },
+    {
+      "id": "heading-instructions",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "AMBIENT INSTRUCTIONS REPLACED"
+      }
+    },
+    {
+      "id": "detail-instructions",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "AGENTS.md changes RED to GREEN inside the same conversation"
+      }
+    },
+    {
+      "id": "heading-plugin-v1",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "PLUGIN GENERATION ONE"
+      }
+    },
+    {
+      "id": "detail-plugin-v1",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "release_status appears and returns STAGING in the open session"
+      }
+    },
+    {
+      "id": "heading-plugin-v2",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          82
+        ],
+        "color": [
+          235,
+          240,
+          246
+        ],
+        "fontSize": 34,
+        "text": "PLUGIN GENERATION TWO. SAME SESSION."
+      }
+    },
+    {
+      "id": "detail-plugin-v2",
+      "recipe": "text",
+      "data": {
+        "center": [
+          960,
+          1020
+        ],
+        "color": [
+          139,
+          166,
+          199
+        ],
+        "fontSize": 22,
+        "text": "READY  /  deployment_url added  /  one service, one client, zero restarts"
+      }
+    }
+  ],
+  "semanticTargets": [],
+  "continuousChannels": [
+    {
+      "id": "recording.y",
+      "actorId": "recording",
+      "property": "y",
+      "initial": -40.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 0.0,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "recording.scale",
+      "actorId": "recording",
+      "property": "scale",
+      "initial": 1.35,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 1.15,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "recording.rotation",
+      "actorId": "recording",
+      "property": "rotation",
+      "initial": -0.06,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 0.0,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "recording.tilt-x",
+      "actorId": "recording",
+      "property": "tilt-x",
+      "initial": -0.24,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 0.0,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "recording.tilt-y",
+      "actorId": "recording",
+      "property": "tilt-y",
+      "initial": 0.34,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 0.0,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "recording.blur",
+      "actorId": "recording",
+      "property": "blur",
+      "initial": 11.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 0,
+          "target": 0.0,
+          "responseSeconds": 0.84000003,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-command.opacity",
+      "actorId": "heading-command",
+      "property": "opacity",
+      "initial": 1.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 2800000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-command.opacity",
+      "actorId": "detail-command",
+      "property": "opacity",
+      "initial": 1.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 2800000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-agent.opacity",
+      "actorId": "heading-agent",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 2800000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 5200000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-agent.opacity",
+      "actorId": "detail-agent",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 2800000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 5200000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-skill.opacity",
+      "actorId": "heading-skill",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 5200000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 7400000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-skill.opacity",
+      "actorId": "detail-skill",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 5200000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 7400000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-reference.opacity",
+      "actorId": "heading-reference",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 7400000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 9600000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-reference.opacity",
+      "actorId": "detail-reference",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 7400000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 9600000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-model.opacity",
+      "actorId": "heading-model",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 9600000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 11800000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-model.opacity",
+      "actorId": "detail-model",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 9600000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 11800000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-permission.opacity",
+      "actorId": "heading-permission",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 11800000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 13600000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-permission.opacity",
+      "actorId": "detail-permission",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 11800000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 13600000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-instructions.opacity",
+      "actorId": "heading-instructions",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 13600000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 15400000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-instructions.opacity",
+      "actorId": "detail-instructions",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 13600000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 15400000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-plugin-v1.opacity",
+      "actorId": "heading-plugin-v1",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 15400000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 17300000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-plugin-v1.opacity",
+      "actorId": "detail-plugin-v1",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 15400000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        },
+        {
+          "operation": "spring",
+          "atNanos": 17300000000,
+          "target": 0.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "heading-plugin-v2.opacity",
+      "actorId": "heading-plugin-v2",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 17300000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    },
+    {
+      "id": "detail-plugin-v2.opacity",
+      "actorId": "detail-plugin-v2",
+      "property": "opacity",
+      "initial": 0.0,
+      "events": [
+        {
+          "operation": "spring",
+          "atNanos": 17300000000,
+          "target": 1.0,
+          "responseSeconds": 0.384,
+          "dampingRatio": 1.0,
+          "positionThreshold": 0.001,
+          "velocityThreshold": 0.001
+        }
+      ]
+    }
+  ],
+  "stateChannels": [],
+  "cues": [
+    {
+      "id": "command",
+      "startNanos": 0,
+      "endNanos": 2800000000
+    },
+    {
+      "id": "agent",
+      "startNanos": 2800000000,
+      "endNanos": 5200000000
+    },
+    {
+      "id": "skill",
+      "startNanos": 5200000000,
+      "endNanos": 7400000000
+    },
+    {
+      "id": "reference",
+      "startNanos": 7400000000,
+      "endNanos": 9600000000
+    },
+    {
+      "id": "model",
+      "startNanos": 9600000000,
+      "endNanos": 11800000000
+    },
+    {
+      "id": "permission",
+      "startNanos": 11800000000,
+      "endNanos": 13600000000
+    },
+    {
+      "id": "instructions",
+      "startNanos": 13600000000,
+      "endNanos": 15400000000
+    },
+    {
+      "id": "plugin-v1",
+      "startNanos": 15400000000,
+      "endNanos": 17300000000
+    },
+    {
+      "id": "plugin-v2",
+      "startNanos": 17300000000,
+      "endNanos": 20500000000
+    }
+  ],
+  "media": [
+    {
+      "id": "live-hot-reload",
+      "path": "../../assets/opencode-v2-session-tool/max-hot-reload-split.mp4",
+      "kind": "video",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 19216667000,
+      "timelineStartNanos": 600000000,
+      "timelineEndNanos": 19816667000,
+      "gainDb": 0.0
+    },
+    {
+      "id": "save-0",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 0,
+      "timelineEndNanos": 160000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-1",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 2800000000,
+      "timelineEndNanos": 2960000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-2",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 5200000000,
+      "timelineEndNanos": 5360000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-3",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 7400000000,
+      "timelineEndNanos": 7560000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-4",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 9600000000,
+      "timelineEndNanos": 9760000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-5",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 11800000000,
+      "timelineEndNanos": 11960000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-6",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 13600000000,
+      "timelineEndNanos": 13760000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "save-7",
+      "path": "../../assets/opencode-hot-reload/save.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 160000000,
+      "timelineStartNanos": 15400000000,
+      "timelineEndNanos": 15560000000,
+      "gainDb": -2.0
+    },
+    {
+      "id": "confirm-8",
+      "path": "../../assets/opencode-hot-reload/confirm.wav",
+      "kind": "audio",
+      "role": "layer",
+      "sourceStartNanos": 0,
+      "sourceEndNanos": 340000000,
+      "timelineStartNanos": 17300000000,
+      "timelineEndNanos": 17640000000,
+      "gainDb": 4.0
+    }
+  ]
+}

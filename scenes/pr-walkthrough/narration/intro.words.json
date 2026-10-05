@@ -1,0 +1,234 @@
+{
+ "wordTimings": [
+  {
+   "word": "OpenCode",
+   "start": 0,
+   "end": 0.64
+  },
+  {
+   "word": "runs",
+   "start": 0.64,
+   "end": 0.88
+  },
+  {
+   "word": "one",
+   "start": 0.88,
+   "end": 1.38
+  },
+  {
+   "word": "background",
+   "start": 1.38,
+   "end": 1.84
+  },
+  {
+   "word": "service,",
+   "start": 1.84,
+   "end": 2.24
+  },
+  {
+   "word": "and",
+   "start": 2.6,
+   "end": 3.34
+  },
+  {
+   "word": "every",
+   "start": 3.34,
+   "end": 3.72
+  },
+  {
+   "word": "terminal",
+   "start": 3.72,
+   "end": 4.24
+  },
+  {
+   "word": "and",
+   "start": 4.24,
+   "end": 4.56
+  },
+  {
+   "word": "the",
+   "start": 4.56,
+   "end": 4.7
+  },
+  {
+   "word": "desktop",
+   "start": 4.7,
+   "end": 5
+  },
+  {
+   "word": "app",
+   "start": 5,
+   "end": 5.38
+  },
+  {
+   "word": "connect",
+   "start": 5.38,
+   "end": 5.86
+  },
+  {
+   "word": "to",
+   "start": 5.86,
+   "end": 6.16
+  },
+  {
+   "word": "it.",
+   "start": 6.16,
+   "end": 6.4
+  },
+  {
+   "word": "When",
+   "start": 6.7,
+   "end": 7.46
+  },
+  {
+   "word": "that",
+   "start": 7.46,
+   "end": 7.64
+  },
+  {
+   "word": "service",
+   "start": 7.64,
+   "end": 7.96
+  },
+  {
+   "word": "failed",
+   "start": 7.96,
+   "end": 8.38
+  },
+  {
+   "word": "to",
+   "start": 8.38,
+   "end": 8.54
+  },
+  {
+   "word": "start,",
+   "start": 8.54,
+   "end": 8.92
+  },
+  {
+   "word": "you",
+   "start": 9.06,
+   "end": 9.76
+  },
+  {
+   "word": "usually",
+   "start": 9.76,
+   "end": 10.14
+  },
+  {
+   "word": "saw",
+   "start": 10.14,
+   "end": 10.52
+  },
+  {
+   "word": "a",
+   "start": 10.52,
+   "end": 10.84
+  },
+  {
+   "word": "vague",
+   "start": 10.84,
+   "end": 11.26
+  },
+  {
+   "word": "timeout,",
+   "start": 11.26,
+   "end": 11.96
+  },
+  {
+   "word": "and",
+   "start": 12.02,
+   "end": 12.48
+  },
+  {
+   "word": "sometimes,",
+   "start": 12.48,
+   "end": 12.86
+  },
+  {
+   "word": "a",
+   "start": 13.24,
+   "end": 13.7
+  },
+  {
+   "word": "perfectly",
+   "start": 13.7,
+   "end": 14.1
+  },
+  {
+   "word": "healthy",
+   "start": 14.1,
+   "end": 14.54
+  },
+  {
+   "word": "server",
+   "start": 14.54,
+   "end": 15
+  },
+  {
+   "word": "got",
+   "start": 15,
+   "end": 15.34
+  },
+  {
+   "word": "killed.",
+   "start": 15.34,
+   "end": 15.82
+  },
+  {
+   "word": "These",
+   "start": 16.32,
+   "end": 17.08
+  },
+  {
+   "word": "five",
+   "start": 17.08,
+   "end": 17.5
+  },
+  {
+   "word": "small",
+   "start": 17.5,
+   "end": 18.1
+  },
+  {
+   "word": "pull",
+   "start": 18.1,
+   "end": 18.52
+  },
+  {
+   "word": "requests",
+   "start": 18.52,
+   "end": 18.9
+  },
+  {
+   "word": "fix",
+   "start": 18.9,
+   "end": 19.56
+  },
+  {
+   "word": "that.",
+   "start": 19.56,
+   "end": 19.8
+  },
+  {
+   "word": "Let's",
+   "start": 20.46,
+   "end": 20.86
+  },
+  {
+   "word": "walk",
+   "start": 20.86,
+   "end": 21
+  },
+  {
+   "word": "through",
+   "start": 21,
+   "end": 21.22
+  },
+  {
+   "word": "them.",
+   "start": 21.22,
+   "end": 21.42
+  }
+ ]
+}

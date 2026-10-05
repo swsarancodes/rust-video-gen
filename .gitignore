@@ -1,0 +1,15 @@
+# Build and output artifacts
+/target
+/output
+
+# Environment and OS
+.env
+.DS_Store
+*.tmp
+*.aiff
+
+# Graphify knowledge graph
+graphify-out/
+
+# System / Scratch artifacts
+.system_generated/

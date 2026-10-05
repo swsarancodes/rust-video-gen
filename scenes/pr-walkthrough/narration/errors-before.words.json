@@ -1,0 +1,379 @@
+{
+ "wordTimings": [
+  {
+   "word": "First,",
+   "start": 0,
+   "end": 0.44
+  },
+  {
+   "word": "startup",
+   "start": 0.6,
+   "end": 1.16
+  },
+  {
+   "word": "errors.",
+   "start": 1.16,
+   "end": 1.52
+  },
+  {
+   "word": "When",
+   "start": 2.2,
+   "end": 2.8
+  },
+  {
+   "word": "no",
+   "start": 2.8,
+   "end": 3.02
+  },
+  {
+   "word": "service",
+   "start": 3.02,
+   "end": 3.42
+  },
+  {
+   "word": "is",
+   "start": 3.42,
+   "end": 3.62
+  },
+  {
+   "word": "running,",
+   "start": 3.62,
+   "end": 3.92
+  },
+  {
+   "word": "the",
+   "start": 4.12,
+   "end": 4.4
+  },
+  {
+   "word": "client",
+   "start": 4.4,
+   "end": 4.7
+  },
+  {
+   "word": "starts",
+   "start": 4.7,
+   "end": 5.1
+  },
+  {
+   "word": "contenders,",
+   "start": 5.1,
+   "end": 5.76
+  },
+  {
+   "word": "small",
+   "start": 6.319999999999999,
+   "end": 6.62
+  },
+  {
+   "word": "processes",
+   "start": 6.62,
+   "end": 7.2
+  },
+  {
+   "word": "that",
+   "start": 7.2,
+   "end": 7.66
+  },
+  {
+   "word": "each",
+   "start": 7.66,
+   "end": 7.9
+  },
+  {
+   "word": "try",
+   "start": 7.9,
+   "end": 8.2
+  },
+  {
+   "word": "to",
+   "start": 8.2,
+   "end": 8.4
+  },
+  {
+   "word": "become",
+   "start": 8.4,
+   "end": 8.68
+  },
+  {
+   "word": "the",
+   "start": 8.68,
+   "end": 9.06
+  },
+  {
+   "word": "server,",
+   "start": 9.06,
+   "end": 9.46
+  },
+  {
+   "word": "say",
+   "start": 9.58,
+   "end": 9.92
+  },
+  {
+   "word": "the",
+   "start": 9.92,
+   "end": 10.1
+  },
+  {
+   "word": "port",
+   "start": 10.1,
+   "end": 10.36
+  },
+  {
+   "word": "is",
+   "start": 10.36,
+   "end": 10.52
+  },
+  {
+   "word": "taken.",
+   "start": 10.52,
+   "end": 10.88
+  },
+  {
+   "word": "Contender",
+   "start": 11.78,
+   "end": 12.38
+  },
+  {
+   "word": "A",
+   "start": 12.38,
+   "end": 12.58
+  },
+  {
+   "word": "fails",
+   "start": 12.58,
+   "end": 13.02
+  },
+  {
+   "word": "with",
+   "start": 13.02,
+   "end": 13.36
+  },
+  {
+   "word": "a",
+   "start": 13.36,
+   "end": 13.48
+  },
+  {
+   "word": "real",
+   "start": 13.48,
+   "end": 13.82
+  },
+  {
+   "word": "useful",
+   "start": 13.82,
+   "end": 14.26
+  },
+  {
+   "word": "error,",
+   "start": 14.26,
+   "end": 14.74
+  },
+  {
+   "word": "but",
+   "start": 14.92,
+   "end": 15.8
+  },
+  {
+   "word": "the",
+   "start": 15.8,
+   "end": 15.9
+  },
+  {
+   "word": "client",
+   "start": 15.9,
+   "end": 16.2
+  },
+  {
+   "word": "only",
+   "start": 16.2,
+   "end": 16.56
+  },
+  {
+   "word": "reports",
+   "start": 16.56,
+   "end": 16.92
+  },
+  {
+   "word": "a",
+   "start": 16.92,
+   "end": 17.14
+  },
+  {
+   "word": "failure",
+   "start": 17.14,
+   "end": 17.52
+  },
+  {
+   "word": "once",
+   "start": 17.52,
+   "end": 18
+  },
+  {
+   "word": "no",
+   "start": 18,
+   "end": 18.34
+  },
+  {
+   "word": "contenders",
+   "start": 18.34,
+   "end": 18.98
+  },
+  {
+   "word": "are",
+   "start": 18.98,
+   "end": 19.22
+  },
+  {
+   "word": "left,",
+   "start": 19.22,
+   "end": 19.52
+  },
+  {
+   "word": "and",
+   "start": 20.16,
+   "end": 20.46
+  },
+  {
+   "word": "it",
+   "start": 20.46,
+   "end": 20.64
+  },
+  {
+   "word": "keeps",
+   "start": 20.64,
+   "end": 20.88
+  },
+  {
+   "word": "starting",
+   "start": 20.88,
+   "end": 21.28
+  },
+  {
+   "word": "new",
+   "start": 21.28,
+   "end": 21.68
+  },
+  {
+   "word": "ones,",
+   "start": 21.68,
+   "end": 22.02
+  },
+  {
+   "word": "so",
+   "start": 22.16,
+   "end": 22.64
+  },
+  {
+   "word": "that",
+   "start": 22.64,
+   "end": 22.82
+  },
+  {
+   "word": "error",
+   "start": 22.82,
+   "end": 23.12
+  },
+  {
+   "word": "is",
+   "start": 23.12,
+   "end": 23.42
+  },
+  {
+   "word": "dropped,",
+   "start": 23.42,
+   "end": 23.74
+  },
+  {
+   "word": "over",
+   "start": 23.98,
+   "end": 24.6
+  },
+  {
+   "word": "and",
+   "start": 24.6,
+   "end": 24.88
+  },
+  {
+   "word": "over,",
+   "start": 24.88,
+   "end": 25.16
+  },
+  {
+   "word": "until",
+   "start": 25.36,
+   "end": 26.16
+  },
+  {
+   "word": "you",
+   "start": 26.16,
+   "end": 26.34
+  },
+  {
+   "word": "get,",
+   "start": 26.34,
+   "end": 26.56
+  },
+  {
+   "word": "timed",
+   "start": 26.56,
+   "end": 27.22
+  },
+  {
+   "word": "out,",
+   "start": 27.22,
+   "end": 27.66
+  },
+  {
+   "word": "waiting",
+   "start": 27.74,
+   "end": 28.14
+  },
+  {
+   "word": "for",
+   "start": 28.14,
+   "end": 28.36
+  },
+  {
+   "word": "the",
+   "start": 28.36,
+   "end": 28.5
+  },
+  {
+   "word": "background",
+   "start": 28.5,
+   "end": 28.84
+  },
+  {
+   "word": "service",
+   "start": 28.84,
+   "end": 29.22
+  },
+  {
+   "word": "to",
+   "start": 29.22,
+   "end": 29.6
+  },
+  {
+   "word": "start.",
+   "start": 29.6,
+   "end": 29.92
+  },
+  {
+   "word": "Two",
+   "start": 30.62,
+   "end": 31.3
+  },
+  {
+   "word": "minutes",
+   "start": 31.3,
+   "end": 31.6
+  },
+  {
+   "word": "later,",
+   "start": 31.6,
+   "end": 31.94
+  }
+ ]
+}

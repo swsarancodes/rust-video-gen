@@ -1,0 +1,32 @@
+{
+  "engine": "elevenlabs",
+  "model": "eleven_v4",
+  "voice": "8olojUk4IXpvKgaOCHXj",
+  "settings": { "stability": 0.5, "similarity": 0.7 },
+  "clips": [
+    {
+      "id": "mismatch-before",
+      "text": "[warm, conversational voice] Second: never kill a healthy server over a protocol mismatch. When a client reconnects, it checks the server's health endpoint. [measured, concerned voice] If that returns a 404, the client assumed the server was outdated, and replaced it. [dry, deliberate emphasis] Sig term, then start a new one. [restrained disbelief, clear delivery] That's how a terminal opened before an update could shut down a brand new server, and cut off every other client."
+    },
+    {
+      "id": "mismatch-after",
+      "text": "[confident, conversational voice] Now a 404 only means the health protocols don't match. Unless you asked for a different version, the client stops with a clear message: [firm, helpful delivery] update this client, or explicitly restart the service. [relieved, understated emphasis] Nothing gets killed."
+    },
+    {
+      "id": "mismatch-code",
+      "text": "[clear, engaged explanation] In the code, the client checks the version requirement first. [measured, precise delivery] If the version is fine but the protocol isn't, it fails with that message, instead of falling through to stop."
+    },
+    {
+      "id": "stop-before",
+      "text": "[warm, conversational voice] To restart, the client sends sig term and waits for the server to exit. [measured, concerned voice] But if the old process was still running after the grace period, and its registration file had disappeared or changed, the client gave up without escalating. [dry, deliberate emphasis] The old process could still hold the port, and the restart that followed would collide with it."
+    },
+    {
+      "id": "stop-after",
+      "text": "[confident, clear voice] Now it only trusts the process it signaled. [firm, decisive delivery] If that process is still alive after the grace period, it gets sig kill. [calm, grounded emphasis] And if even that fails, stop reports a clear error after about ten seconds, instead of pretending it worked."
+    },
+    {
+      "id": "stop-code",
+      "text": "[concise, satisfied delivery] The fix deletes two lines in each client: the early return that trusted the file."
+    }
+  ]
+}

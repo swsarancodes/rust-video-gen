@@ -1,0 +1,32 @@
+{
+  "act1": {
+    "file": "voice_act1.wav",
+    "duration": 8.736,
+    "text": "Classical NLP relied on recurrent networks, squeezing context into a fixed hidden vector. Distant words decayed, and sequential processing blocked parallelism.",
+    "voice": "en-US-GuyNeural"
+  },
+  "act2": {
+    "file": "voice_act2.wav",
+    "duration": 8.04,
+    "text": "Attention shattered this bottleneck through direct random-access routing. Every token can now examine all other tokens across the sequence simultaneously.",
+    "voice": "en-US-GuyNeural"
+  },
+  "act3": {
+    "file": "voice_act3.wav",
+    "duration": 7.56,
+    "text": "To route context intelligently, tokens project into three roles: Query seeking clues, Key advertising identity, and Value carrying the semantic payload.",
+    "voice": "en-US-GuyNeural"
+  },
+  "act4": {
+    "file": "voice_act4.wav",
+    "duration": 7.896,
+    "text": "Queries take scaled dot-products with all Keys. Softmax normalizes these into attention weights, routing eighty-eight percent of the animal into the pronoun.",
+    "voice": "en-US-GuyNeural"
+  },
+  "act5": {
+    "file": "voice_act5.wav",
+    "duration": 8.184,
+    "text": "Multi-head attention captures syntax and reference in parallel. Wrapped in residual connections, this Transformer block powers all modern foundation models.",
+    "voice": "en-US-GuyNeural"
+  }
+}
